@@ -1,0 +1,5 @@
+{
+    "editor.tabSize": 2,
+    "css.lint.unknownAtRules": "ignore",
+    "js/ts.preferences.autoImportSpecifierExcludeRegexes": ["^radix-ui($|/)", "^@radix-ui/react-toolbar($|/)"]
+}
